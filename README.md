@@ -70,4 +70,12 @@ LeetCode Questions!!!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Midoriya077/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0338-counting-bits](https://github.com/Midoriya077/LeetCode/tree/main/0338-counting-bits/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0338-counting-bits](https://github.com/Midoriya077/LeetCode/tree/main/0338-counting-bits/) | Easy |
 <!---LeetCode Topics End-->
