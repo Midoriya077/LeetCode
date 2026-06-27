@@ -39,6 +39,7 @@ LeetCode Questions!!!!
 | [0367-valid-perfect-square](https://github.com/Midoriya077/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/Midoriya077/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/Midoriya077/LeetCode/tree/main/0728-self-dividing-numbers/) | Easy |
+| [2525-categorize-box-according-to-criteria](https://github.com/Midoriya077/LeetCode/tree/main/2525-categorize-box-according-to-criteria/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
