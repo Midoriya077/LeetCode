@@ -30,6 +30,7 @@ LeetCode Questions!!!!
 | [0896-monotonic-array](https://github.com/Midoriya077/LeetCode/tree/main/0896-monotonic-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Midoriya077/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Midoriya077/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/Midoriya077/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Midoriya077/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3866-first-unique-even-element](https://github.com/Midoriya077/LeetCode/tree/main/3866-first-unique-even-element/) | Easy |
 ## Two Pointers
@@ -79,6 +80,7 @@ LeetCode Questions!!!!
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2574-left-and-right-sum-differences](https://github.com/Midoriya077/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Midoriya077/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
