@@ -52,6 +52,7 @@ LeetCode Questions!!!!
 | [1250-check-if-it-is-a-good-array](https://github.com/Midoriya077/LeetCode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Midoriya077/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Midoriya077/LeetCode/tree/main/2427-number-of-common-factors/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Midoriya077/LeetCode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2525-categorize-box-according-to-criteria](https://github.com/Midoriya077/LeetCode/tree/main/2525-categorize-box-according-to-criteria/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Midoriya077/LeetCode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 ## Number Theory
