@@ -54,6 +54,7 @@ LeetCode Questions!!!!
 | [2427-number-of-common-factors](https://github.com/Midoriya077/LeetCode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Midoriya077/LeetCode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2525-categorize-box-according-to-criteria](https://github.com/Midoriya077/LeetCode/tree/main/2525-categorize-box-according-to-criteria/) | Easy |
+| [2652-sum-multiples](https://github.com/Midoriya077/LeetCode/tree/main/2652-sum-multiples/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Midoriya077/LeetCode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
