@@ -31,6 +31,7 @@ LeetCode Questions!!!!
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Midoriya077/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0053-maximum-subarray](https://github.com/Midoriya077/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Midoriya077/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0896-monotonic-array](https://github.com/Midoriya077/LeetCode/tree/main/0896-monotonic-array/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/Midoriya077/LeetCode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1550-three-consecutive-odds](https://github.com/Midoriya077/LeetCode/tree/main/1550-three-consecutive-odds/) | Easy |
@@ -46,6 +47,7 @@ LeetCode Questions!!!!
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Midoriya077/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Midoriya077/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Midoriya077/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,6 +120,7 @@ LeetCode Questions!!!!
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Midoriya077/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Midoriya077/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
