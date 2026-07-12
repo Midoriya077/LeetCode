@@ -36,6 +36,7 @@ LeetCode Questions!!!!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Midoriya077/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0896-monotonic-array](https://github.com/Midoriya077/LeetCode/tree/main/0896-monotonic-array/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/Midoriya077/LeetCode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
+| [1331-rank-transform-of-an-array](https://github.com/Midoriya077/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/Midoriya077/LeetCode/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Midoriya077/LeetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Midoriya077/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -89,6 +90,7 @@ LeetCode Questions!!!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Midoriya077/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/Midoriya077/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Midoriya077/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Midoriya077/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Midoriya077/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -97,6 +99,7 @@ LeetCode Questions!!!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Midoriya077/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/Midoriya077/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [3024-type-of-triangle](https://github.com/Midoriya077/LeetCode/tree/main/3024-type-of-triangle/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
