@@ -32,6 +32,7 @@ LeetCode Questions!!!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Midoriya077/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0041-first-missing-positive](https://github.com/Midoriya077/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0053-maximum-subarray](https://github.com/Midoriya077/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Midoriya077/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0896-monotonic-array](https://github.com/Midoriya077/LeetCode/tree/main/0896-monotonic-array/) | Easy |
@@ -89,6 +90,7 @@ LeetCode Questions!!!!
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/Midoriya077/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0242-valid-anagram](https://github.com/Midoriya077/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Midoriya077/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Midoriya077/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
