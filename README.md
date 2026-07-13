@@ -146,6 +146,7 @@ LeetCode Questions!!!!
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/Midoriya077/LeetCode/tree/main/1291-sequential-digits/) | Medium |
 | [2427-number-of-common-factors](https://github.com/Midoriya077/LeetCode/tree/main/2427-number-of-common-factors/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
