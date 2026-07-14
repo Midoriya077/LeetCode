@@ -12,6 +12,7 @@ LeetCode Questions!!!!
 | [0344-reverse-string](https://github.com/Midoriya077/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/Midoriya077/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Midoriya077/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/Midoriya077/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Midoriya077/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Midoriya077/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Midoriya077/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -58,6 +59,7 @@ LeetCode Questions!!!!
 | [0151-reverse-words-in-a-string](https://github.com/Midoriya077/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Midoriya077/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0344-reverse-string](https://github.com/Midoriya077/LeetCode/tree/main/0344-reverse-string/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/Midoriya077/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
