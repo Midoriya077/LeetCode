@@ -82,6 +82,7 @@ LeetCode Questions!!!!
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Midoriya077/LeetCode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3024-type-of-triangle](https://github.com/Midoriya077/LeetCode/tree/main/3024-type-of-triangle/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Midoriya077/LeetCode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Midoriya077/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Midoriya077/LeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -90,6 +91,7 @@ LeetCode Questions!!!!
 | [1250-check-if-it-is-a-good-array](https://github.com/Midoriya077/LeetCode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Midoriya077/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Midoriya077/LeetCode/tree/main/2427-number-of-common-factors/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Midoriya077/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
