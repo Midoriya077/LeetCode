@@ -37,6 +37,7 @@ LeetCode Questions!!!!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Midoriya077/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0041-first-missing-positive](https://github.com/Midoriya077/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0053-maximum-subarray](https://github.com/Midoriya077/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Midoriya077/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Midoriya077/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0896-monotonic-array](https://github.com/Midoriya077/LeetCode/tree/main/0896-monotonic-array/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/Midoriya077/LeetCode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
@@ -152,6 +153,7 @@ LeetCode Questions!!!!
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Midoriya077/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Midoriya077/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Midoriya077/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 ## Sliding Window
