@@ -42,6 +42,7 @@ LeetCode Questions!!!!
 | [0053-maximum-subarray](https://github.com/Midoriya077/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Midoriya077/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Midoriya077/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/Midoriya077/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Midoriya077/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0896-monotonic-array](https://github.com/Midoriya077/LeetCode/tree/main/0896-monotonic-array/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/Midoriya077/LeetCode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
@@ -67,12 +68,14 @@ LeetCode Questions!!!!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Midoriya077/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Midoriya077/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Midoriya077/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/Midoriya077/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/Midoriya077/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Midoriya077/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Midoriya077/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/Midoriya077/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0258-add-digits](https://github.com/Midoriya077/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0292-nim-game](https://github.com/Midoriya077/LeetCode/tree/main/0292-nim-game/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Midoriya077/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
