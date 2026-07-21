@@ -25,6 +25,7 @@ LeetCode Questions!!!!
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Midoriya077/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Midoriya077/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -184,4 +185,16 @@ LeetCode Questions!!!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/Midoriya077/LeetCode/tree/main/0292-nim-game/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Midoriya077/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Midoriya077/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Midoriya077/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
