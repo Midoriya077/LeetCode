@@ -92,6 +92,7 @@ LeetCode Questions!!!!
 | [1512-number-of-good-pairs](https://github.com/Midoriya077/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/Midoriya077/LeetCode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Midoriya077/LeetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [1837-sum-of-digits-in-base-k](https://github.com/Midoriya077/LeetCode/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Midoriya077/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Midoriya077/LeetCode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Midoriya077/LeetCode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
