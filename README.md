@@ -44,6 +44,7 @@ LeetCode Questions!!!!
 | [0041-first-missing-positive](https://github.com/Midoriya077/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0053-maximum-subarray](https://github.com/Midoriya077/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Midoriya077/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Midoriya077/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Midoriya077/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Midoriya077/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Midoriya077/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -183,6 +184,7 @@ LeetCode Questions!!!!
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Midoriya077/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Midoriya077/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Midoriya077/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Midoriya077/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Midoriya077/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Midoriya077/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
