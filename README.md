@@ -49,6 +49,7 @@ LeetCode Questions!!!!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Midoriya077/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Midoriya077/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Midoriya077/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/Midoriya077/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0896-monotonic-array](https://github.com/Midoriya077/LeetCode/tree/main/0896-monotonic-array/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/Midoriya077/LeetCode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/Midoriya077/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -90,6 +91,7 @@ LeetCode Questions!!!!
 | [0507-perfect-number](https://github.com/Midoriya077/LeetCode/tree/main/0507-perfect-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Midoriya077/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/Midoriya077/LeetCode/tree/main/0728-self-dividing-numbers/) | Easy |
+| [0877-stone-game](https://github.com/Midoriya077/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1250-check-if-it-is-a-good-array](https://github.com/Midoriya077/LeetCode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1486-xor-operation-in-an-array](https://github.com/Midoriya077/LeetCode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/Midoriya077/LeetCode/tree/main/1492-the-kth-factor-of-n/) | Medium |
@@ -172,6 +174,7 @@ LeetCode Questions!!!!
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Midoriya077/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0338-counting-bits](https://github.com/Midoriya077/LeetCode/tree/main/0338-counting-bits/) | Easy |
+| [0877-stone-game](https://github.com/Midoriya077/LeetCode/tree/main/0877-stone-game/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -207,6 +210,7 @@ LeetCode Questions!!!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/Midoriya077/LeetCode/tree/main/0292-nim-game/) | Easy |
+| [0877-stone-game](https://github.com/Midoriya077/LeetCode/tree/main/0877-stone-game/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
