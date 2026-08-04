@@ -66,6 +66,7 @@ LeetCode Questions!!!!
 | [2942-find-words-containing-character](https://github.com/Midoriya077/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3024-type-of-triangle](https://github.com/Midoriya077/LeetCode/tree/main/3024-type-of-triangle/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Midoriya077/LeetCode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3731-find-missing-elements](https://github.com/Midoriya077/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Midoriya077/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Midoriya077/LeetCode/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Midoriya077/LeetCode/tree/main/3866-first-unique-even-element/) | Easy |
@@ -132,6 +133,7 @@ LeetCode Questions!!!!
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Midoriya077/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Midoriya077/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Midoriya077/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [3731-find-missing-elements](https://github.com/Midoriya077/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Midoriya077/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3866-first-unique-even-element](https://github.com/Midoriya077/LeetCode/tree/main/3866-first-unique-even-element/) | Easy |
 ## Sorting
@@ -143,6 +145,7 @@ LeetCode Questions!!!!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Midoriya077/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3024-type-of-triangle](https://github.com/Midoriya077/LeetCode/tree/main/3024-type-of-triangle/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Midoriya077/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3731-find-missing-elements](https://github.com/Midoriya077/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Midoriya077/LeetCode/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Midoriya077/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Counting
