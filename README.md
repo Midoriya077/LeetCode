@@ -109,6 +109,7 @@ LeetCode Questions!!!!
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Midoriya077/LeetCode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3024-type-of-triangle](https://github.com/Midoriya077/LeetCode/tree/main/3024-type-of-triangle/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Midoriya077/LeetCode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Midoriya077/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Midoriya077/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Midoriya077/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Midoriya077/LeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -205,6 +206,7 @@ LeetCode Questions!!!!
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/Midoriya077/LeetCode/tree/main/1291-sequential-digits/) | Medium |
 | [2427-number-of-common-factors](https://github.com/Midoriya077/LeetCode/tree/main/2427-number-of-common-factors/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Midoriya077/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
