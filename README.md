@@ -50,6 +50,7 @@ LeetCode Questions!!!!
 | [0053-maximum-subarray](https://github.com/Midoriya077/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Midoriya077/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Midoriya077/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/Midoriya077/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Midoriya077/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Midoriya077/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Midoriya077/LeetCode/tree/main/0189-rotate-array/) | Medium |
@@ -141,6 +142,7 @@ LeetCode Questions!!!!
 | [0001-two-sum](https://github.com/Midoriya077/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0041-first-missing-positive](https://github.com/Midoriya077/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/Midoriya077/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/Midoriya077/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Midoriya077/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/Midoriya077/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Midoriya077/LeetCode/tree/main/0242-valid-anagram/) | Easy |
@@ -294,4 +296,8 @@ LeetCode Questions!!!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Midoriya077/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Midoriya077/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
