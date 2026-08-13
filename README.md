@@ -89,6 +89,7 @@ LeetCode Questions!!!!
 | [0151-reverse-words-in-a-string](https://github.com/Midoriya077/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Midoriya077/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Midoriya077/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/Midoriya077/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0344-reverse-string](https://github.com/Midoriya077/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Midoriya077/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Midoriya077/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -97,6 +98,7 @@ LeetCode Questions!!!!
 | ------- | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/Midoriya077/LeetCode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/Midoriya077/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/Midoriya077/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/Midoriya077/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0292-nim-game](https://github.com/Midoriya077/LeetCode/tree/main/0292-nim-game/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Midoriya077/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
@@ -143,6 +145,7 @@ LeetCode Questions!!!!
 | [0041-first-missing-positive](https://github.com/Midoriya077/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/Midoriya077/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Midoriya077/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0202-happy-number](https://github.com/Midoriya077/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Midoriya077/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/Midoriya077/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Midoriya077/LeetCode/tree/main/0242-valid-anagram/) | Easy |
@@ -300,4 +303,8 @@ LeetCode Questions!!!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Midoriya077/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/Midoriya077/LeetCode/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
