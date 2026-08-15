@@ -6,6 +6,7 @@ LeetCode Questions!!!!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Midoriya077/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Midoriya077/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/Midoriya077/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/Midoriya077/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
@@ -28,6 +29,7 @@ LeetCode Questions!!!!
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Midoriya077/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/Midoriya077/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Midoriya077/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Simulation
@@ -320,4 +322,8 @@ LeetCode Questions!!!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Midoriya077/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Midoriya077/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
