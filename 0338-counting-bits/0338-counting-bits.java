@@ -1,15 +1,16 @@
 class Solution {
     public int[] countBits(int n) {
-        int[] arr = new int[n+1];
+        int[] al = new int[n+1];
         for(int i=0;i<=n;i++){
-            int bit=0;
-            int num=i;
-            while(num>0){
-                bit=bit+num%2;
-                num=num/2;
+            int x=i;
+            int count=0;
+            while(x>0){
+                int dig=x%2;
+                if(dig==1)count++;
+                x/=2;
             }
-            arr[i]=bit;
+            al[i]=count;
         }
-        return arr;
+        return al;
     }
 }
