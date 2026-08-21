@@ -65,6 +65,7 @@ LeetCode Questions!!!!
 | [0189-rotate-array](https://github.com/Midoriya077/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Midoriya077/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Midoriya077/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0268-missing-number](https://github.com/Midoriya077/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Midoriya077/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Midoriya077/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/Midoriya077/LeetCode/tree/main/0704-binary-search/) | Easy |
@@ -115,6 +116,7 @@ LeetCode Questions!!!!
 | [0189-rotate-array](https://github.com/Midoriya077/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Midoriya077/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/Midoriya077/LeetCode/tree/main/0258-add-digits/) | Easy |
+| [0268-missing-number](https://github.com/Midoriya077/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/Midoriya077/LeetCode/tree/main/0292-nim-game/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Midoriya077/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/Midoriya077/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
@@ -164,6 +166,7 @@ LeetCode Questions!!!!
 | [0205-isomorphic-strings](https://github.com/Midoriya077/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/Midoriya077/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Midoriya077/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/Midoriya077/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Midoriya077/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Midoriya077/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Midoriya077/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -180,6 +183,7 @@ LeetCode Questions!!!!
 | [0049-group-anagrams](https://github.com/Midoriya077/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/Midoriya077/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Midoriya077/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/Midoriya077/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Midoriya077/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Midoriya077/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Midoriya077/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -232,6 +236,7 @@ LeetCode Questions!!!!
 | [0136-single-number](https://github.com/Midoriya077/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Midoriya077/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Midoriya077/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Medium |
+| [0268-missing-number](https://github.com/Midoriya077/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/Midoriya077/LeetCode/tree/main/0338-counting-bits/) | Easy |
 | [0476-number-complement](https://github.com/Midoriya077/LeetCode/tree/main/0476-number-complement/) | Easy |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Midoriya077/LeetCode/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
@@ -247,6 +252,7 @@ LeetCode Questions!!!!
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Midoriya077/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Midoriya077/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Midoriya077/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Medium |
+| [0268-missing-number](https://github.com/Midoriya077/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Midoriya077/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/Midoriya077/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Midoriya077/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
