@@ -112,6 +112,7 @@ LeetCode Questions!!!!
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/Midoriya077/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/Midoriya077/LeetCode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/Midoriya077/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Midoriya077/LeetCode/tree/main/0202-happy-number/) | Easy |
