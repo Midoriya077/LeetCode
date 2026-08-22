@@ -143,6 +143,7 @@ LeetCode Questions!!!!
 | [3232-find-if-digit-game-can-be-won](https://github.com/Midoriya077/LeetCode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Midoriya077/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Midoriya077/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Midoriya077/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Midoriya077/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Midoriya077/LeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Midoriya077/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
