@@ -358,6 +358,7 @@ LeetCode Questions!!!!
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Midoriya077/LeetCode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/Midoriya077/LeetCode/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/Midoriya077/LeetCode/tree/main/0584-find-customer-referee/) | Easy |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Midoriya077/LeetCode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0595-big-countries](https://github.com/Midoriya077/LeetCode/tree/main/0595-big-countries/) | Easy |
 | [0620-not-boring-movies](https://github.com/Midoriya077/LeetCode/tree/main/0620-not-boring-movies/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Midoriya077/LeetCode/tree/main/1068-product-sales-analysis-i/) | Easy |
