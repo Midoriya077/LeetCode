@@ -92,6 +92,7 @@ LeetCode Questions!!!!
 | [3024-type-of-triangle](https://github.com/Midoriya077/LeetCode/tree/main/3024-type-of-triangle/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Midoriya077/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Midoriya077/LeetCode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Midoriya077/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Midoriya077/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Midoriya077/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Midoriya077/LeetCode/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
@@ -179,6 +180,7 @@ LeetCode Questions!!!!
 | [1512-number-of-good-pairs](https://github.com/Midoriya077/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Midoriya077/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Midoriya077/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Midoriya077/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Midoriya077/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Midoriya077/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3866-first-unique-even-element](https://github.com/Midoriya077/LeetCode/tree/main/3866-first-unique-even-element/) | Easy |
