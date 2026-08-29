@@ -74,6 +74,7 @@ LeetCode Questions!!!!
 | [0628-maximum-product-of-three-numbers](https://github.com/Midoriya077/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/Midoriya077/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Midoriya077/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Midoriya077/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Midoriya077/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/Midoriya077/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0896-monotonic-array](https://github.com/Midoriya077/LeetCode/tree/main/0896-monotonic-array/) | Easy |
@@ -269,6 +270,7 @@ LeetCode Questions!!!!
 | [0540-single-element-in-a-sorted-array](https://github.com/Midoriya077/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Midoriya077/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Midoriya077/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Midoriya077/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Midoriya077/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -408,4 +410,8 @@ LeetCode Questions!!!!
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Midoriya077/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Midoriya077/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Midoriya077/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
