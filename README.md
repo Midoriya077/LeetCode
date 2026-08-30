@@ -82,6 +82,7 @@ LeetCode Questions!!!!
 | [1331-rank-transform-of-an-array](https://github.com/Midoriya077/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Midoriya077/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Midoriya077/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1539-kth-missing-positive-number](https://github.com/Midoriya077/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/Midoriya077/LeetCode/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Midoriya077/LeetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Midoriya077/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -272,6 +273,7 @@ LeetCode Questions!!!!
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Midoriya077/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Midoriya077/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Midoriya077/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/Midoriya077/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
