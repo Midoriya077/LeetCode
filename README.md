@@ -104,6 +104,7 @@ LeetCode Questions!!!!
 | [3866-first-unique-even-element](https://github.com/Midoriya077/LeetCode/tree/main/3866-first-unique-even-element/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Midoriya077/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Midoriya077/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/Midoriya077/LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -239,6 +240,7 @@ LeetCode Questions!!!!
 | [0238-product-of-array-except-self](https://github.com/Midoriya077/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Midoriya077/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Midoriya077/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3904-smallest-stable-index-ii](https://github.com/Midoriya077/LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
