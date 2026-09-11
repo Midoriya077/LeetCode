@@ -60,6 +60,7 @@ LeetCode Questions!!!!
 | [0053-maximum-subarray](https://github.com/Midoriya077/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Midoriya077/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Midoriya077/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0078-subsets](https://github.com/Midoriya077/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Midoriya077/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Midoriya077/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Midoriya077/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -260,6 +261,7 @@ LeetCode Questions!!!!
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Midoriya077/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Midoriya077/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Midoriya077/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Midoriya077/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Medium |
@@ -444,4 +446,8 @@ LeetCode Questions!!!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Midoriya077/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/Midoriya077/LeetCode/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
