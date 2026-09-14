@@ -141,6 +141,7 @@ LeetCode Questions!!!!
 | [0509-fibonacci-number](https://github.com/Midoriya077/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Midoriya077/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/Midoriya077/LeetCode/tree/main/0728-self-dividing-numbers/) | Easy |
+| [0836-rectangle-overlap](https://github.com/Midoriya077/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/Midoriya077/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1250-check-if-it-is-a-good-array](https://github.com/Midoriya077/LeetCode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1486-xor-operation-in-an-array](https://github.com/Midoriya077/LeetCode/tree/main/1486-xor-operation-in-an-array/) | Easy |
@@ -452,4 +453,8 @@ LeetCode Questions!!!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Midoriya077/LeetCode/tree/main/0078-subsets/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Midoriya077/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
