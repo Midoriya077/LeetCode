@@ -26,6 +26,7 @@ LeetCode Questions!!!!
 | [2390-removing-stars-from-a-string](https://github.com/Midoriya077/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2942-find-words-containing-character](https://github.com/Midoriya077/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/Midoriya077/LeetCode/tree/main/3019-number-of-changing-keys/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Midoriya077/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,6 +43,7 @@ LeetCode Questions!!!!
 | [1688-count-of-matches-in-tournament](https://github.com/Midoriya077/LeetCode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Midoriya077/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Midoriya077/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Midoriya077/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Midoriya077/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Array
 | Problem Name | Difficulty |
