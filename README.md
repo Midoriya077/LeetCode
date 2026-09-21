@@ -67,6 +67,7 @@ LeetCode Questions!!!!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Midoriya077/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Midoriya077/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/Midoriya077/LeetCode/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/Midoriya077/LeetCode/tree/main/0137-single-number-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Midoriya077/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Midoriya077/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Midoriya077/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -266,6 +267,7 @@ LeetCode Questions!!!!
 | ------- | ------- |
 | [0078-subsets](https://github.com/Midoriya077/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Midoriya077/LeetCode/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/Midoriya077/LeetCode/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/Midoriya077/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Midoriya077/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0268-missing-number](https://github.com/Midoriya077/LeetCode/tree/main/0268-missing-number/) | Easy |
