@@ -392,6 +392,7 @@ LeetCode Questions!!!!
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Midoriya077/LeetCode/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/Midoriya077/LeetCode/tree/main/0176-second-highest-salary/) | Medium |
+| [0177-nth-highest-salary](https://github.com/Midoriya077/LeetCode/tree/main/0177-nth-highest-salary/) | Medium |
 | [0180-consecutive-numbers](https://github.com/Midoriya077/LeetCode/tree/main/0180-consecutive-numbers/) | Medium |
 | [0183-customers-who-never-order](https://github.com/Midoriya077/LeetCode/tree/main/0183-customers-who-never-order/) | Easy |
 | [0185-department-top-three-salaries](https://github.com/Midoriya077/LeetCode/tree/main/0185-department-top-three-salaries/) | Hard |
