@@ -17,6 +17,7 @@ LeetCode Questions!!!!
 | [0344-reverse-string](https://github.com/Midoriya077/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/Midoriya077/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Midoriya077/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0984-string-without-aaa-or-bbb](https://github.com/Midoriya077/LeetCode/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Midoriya077/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Midoriya077/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Midoriya077/LeetCode/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
@@ -408,6 +409,7 @@ LeetCode Questions!!!!
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Midoriya077/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/Midoriya077/LeetCode/tree/main/0055-jump-game/) | Medium |
+| [0984-string-without-aaa-or-bbb](https://github.com/Midoriya077/LeetCode/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/Midoriya077/LeetCode/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
