@@ -102,6 +102,7 @@ LeetCode Questions!!!!
 | [1550-three-consecutive-odds](https://github.com/Midoriya077/LeetCode/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Midoriya077/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Midoriya077/LeetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/Midoriya077/LeetCode/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Midoriya077/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Midoriya077/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Midoriya077/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -233,6 +234,7 @@ LeetCode Questions!!!!
 | [0628-maximum-product-of-three-numbers](https://github.com/Midoriya077/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Midoriya077/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Midoriya077/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/Midoriya077/LeetCode/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Midoriya077/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3024-type-of-triangle](https://github.com/Midoriya077/LeetCode/tree/main/3024-type-of-triangle/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Midoriya077/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -406,6 +408,7 @@ LeetCode Questions!!!!
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Midoriya077/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/Midoriya077/LeetCode/tree/main/0055-jump-game/) | Medium |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/Midoriya077/LeetCode/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
