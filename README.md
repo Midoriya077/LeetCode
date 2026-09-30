@@ -99,6 +99,7 @@ LeetCode Questions!!!!
 | [0896-monotonic-array](https://github.com/Midoriya077/LeetCode/tree/main/0896-monotonic-array/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/Midoriya077/LeetCode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/Midoriya077/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Midoriya077/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Midoriya077/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Midoriya077/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Midoriya077/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -220,6 +221,7 @@ LeetCode Questions!!!!
 | [0575-distribute-candies](https://github.com/Midoriya077/LeetCode/tree/main/0575-distribute-candies/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Midoriya077/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Midoriya077/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Midoriya077/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Midoriya077/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Midoriya077/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Midoriya077/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -243,6 +245,7 @@ LeetCode Questions!!!!
 | [0451-sort-characters-by-frequency](https://github.com/Midoriya077/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Midoriya077/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Midoriya077/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Midoriya077/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Midoriya077/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/Midoriya077/LeetCode/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Midoriya077/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -519,4 +522,8 @@ LeetCode Questions!!!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Midoriya077/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Midoriya077/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
