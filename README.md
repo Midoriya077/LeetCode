@@ -100,6 +100,7 @@ LeetCode Questions!!!!
 | [0875-koko-eating-bananas](https://github.com/Midoriya077/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/Midoriya077/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0896-monotonic-array](https://github.com/Midoriya077/LeetCode/tree/main/0896-monotonic-array/) | Easy |
+| [1051-height-checker](https://github.com/Midoriya077/LeetCode/tree/main/1051-height-checker/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/Midoriya077/LeetCode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/Midoriya077/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Midoriya077/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -248,6 +249,7 @@ LeetCode Questions!!!!
 | [0442-find-all-duplicates-in-an-array](https://github.com/Midoriya077/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Midoriya077/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Midoriya077/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1051-height-checker](https://github.com/Midoriya077/LeetCode/tree/main/1051-height-checker/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Midoriya077/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Midoriya077/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Midoriya077/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -530,5 +532,10 @@ LeetCode Questions!!!!
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1051-height-checker](https://github.com/Midoriya077/LeetCode/tree/main/1051-height-checker/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Midoriya077/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1051-height-checker](https://github.com/Midoriya077/LeetCode/tree/main/1051-height-checker/) | Easy |
 <!---LeetCode Topics End-->
