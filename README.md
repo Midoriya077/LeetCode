@@ -124,6 +124,7 @@ LeetCode Questions!!!!
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Midoriya077/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3024-type-of-triangle](https://github.com/Midoriya077/LeetCode/tree/main/3024-type-of-triangle/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Midoriya077/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Midoriya077/LeetCode/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Midoriya077/LeetCode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3295-report-spam-message](https://github.com/Midoriya077/LeetCode/tree/main/3295-report-spam-message/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Midoriya077/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -232,6 +233,7 @@ LeetCode Questions!!!!
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Midoriya077/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Midoriya077/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Midoriya077/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Midoriya077/LeetCode/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3295-report-spam-message](https://github.com/Midoriya077/LeetCode/tree/main/3295-report-spam-message/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Midoriya077/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Midoriya077/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
@@ -318,6 +320,7 @@ LeetCode Questions!!!!
 | [0476-number-complement](https://github.com/Midoriya077/LeetCode/tree/main/0476-number-complement/) | Easy |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Midoriya077/LeetCode/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/Midoriya077/LeetCode/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Midoriya077/LeetCode/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
