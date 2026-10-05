@@ -17,6 +17,7 @@ LeetCode Questions!!!!
 | [0344-reverse-string](https://github.com/Midoriya077/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/Midoriya077/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Midoriya077/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0856-score-of-parentheses](https://github.com/Midoriya077/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0984-string-without-aaa-or-bbb](https://github.com/Midoriya077/LeetCode/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Midoriya077/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Midoriya077/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -40,6 +41,7 @@ LeetCode Questions!!!!
 | [0020-valid-parentheses](https://github.com/Midoriya077/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Midoriya077/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Midoriya077/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0856-score-of-parentheses](https://github.com/Midoriya077/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Midoriya077/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Midoriya077/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Midoriya077/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -439,6 +441,7 @@ LeetCode Questions!!!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Midoriya077/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0856-score-of-parentheses](https://github.com/Midoriya077/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Midoriya077/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Midoriya077/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Midoriya077/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
