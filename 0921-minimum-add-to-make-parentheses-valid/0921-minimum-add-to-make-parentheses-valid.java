@@ -4,9 +4,8 @@ class Solution {
         int open = 0;
         int ans = 0;
 
-        for(int i = 0; i < s.length(); i++) {
-
-            if(s.charAt(i) == '(') {
+        for (char c : s.toCharArray()) {
+            if(c == '(') {
                 open++;
             }
             else {
