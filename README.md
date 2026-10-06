@@ -18,6 +18,7 @@ LeetCode Questions!!!!
 | [0412-fizz-buzz](https://github.com/Midoriya077/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Midoriya077/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Midoriya077/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Midoriya077/LeetCode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Midoriya077/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0984-string-without-aaa-or-bbb](https://github.com/Midoriya077/LeetCode/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Midoriya077/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -230,6 +231,7 @@ LeetCode Questions!!!!
 | [0442-find-all-duplicates-in-an-array](https://github.com/Midoriya077/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Midoriya077/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0575-distribute-candies](https://github.com/Midoriya077/LeetCode/tree/main/0575-distribute-candies/) | Easy |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Midoriya077/LeetCode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Midoriya077/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Midoriya077/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Midoriya077/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -272,6 +274,7 @@ LeetCode Questions!!!!
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Midoriya077/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Midoriya077/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Midoriya077/LeetCode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Midoriya077/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Midoriya077/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3866-first-unique-even-element](https://github.com/Midoriya077/LeetCode/tree/main/3866-first-unique-even-element/) | Easy |
