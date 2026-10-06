@@ -18,6 +18,7 @@ LeetCode Questions!!!!
 | [0412-fizz-buzz](https://github.com/Midoriya077/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Midoriya077/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Midoriya077/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Midoriya077/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0984-string-without-aaa-or-bbb](https://github.com/Midoriya077/LeetCode/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Midoriya077/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Midoriya077/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -42,6 +43,7 @@ LeetCode Questions!!!!
 | [0042-trapping-rain-water](https://github.com/Midoriya077/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Midoriya077/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Midoriya077/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Midoriya077/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Midoriya077/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Midoriya077/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Midoriya077/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -435,6 +437,7 @@ LeetCode Questions!!!!
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Midoriya077/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/Midoriya077/LeetCode/tree/main/0055-jump-game/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Midoriya077/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0984-string-without-aaa-or-bbb](https://github.com/Midoriya077/LeetCode/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/Midoriya077/LeetCode/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 ## Bracket Sequences
@@ -442,6 +445,7 @@ LeetCode Questions!!!!
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Midoriya077/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Midoriya077/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Midoriya077/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Midoriya077/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Midoriya077/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Midoriya077/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
