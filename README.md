@@ -121,6 +121,7 @@ LeetCode Questions!!!!
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/Midoriya077/LeetCode/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Midoriya077/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Midoriya077/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/Midoriya077/LeetCode/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Midoriya077/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Midoriya077/LeetCode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Midoriya077/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
