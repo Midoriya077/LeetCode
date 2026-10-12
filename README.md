@@ -131,6 +131,7 @@ LeetCode Questions!!!!
 | [2295-replace-elements-in-an-array](https://github.com/Midoriya077/LeetCode/tree/main/2295-replace-elements-in-an-array/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Midoriya077/LeetCode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Midoriya077/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Midoriya077/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Midoriya077/LeetCode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Midoriya077/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Midoriya077/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -374,6 +375,7 @@ LeetCode Questions!!!!
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/Midoriya077/LeetCode/tree/main/1291-sequential-digits/) | Medium |
 | [2427-number-of-common-factors](https://github.com/Midoriya077/LeetCode/tree/main/2427-number-of-common-factors/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Midoriya077/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Midoriya077/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
