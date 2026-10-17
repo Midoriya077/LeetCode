@@ -144,6 +144,7 @@ LeetCode Questions!!!!
 | [3232-find-if-digit-game-can-be-won](https://github.com/Midoriya077/LeetCode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3295-report-spam-message](https://github.com/Midoriya077/LeetCode/tree/main/3295-report-spam-message/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Midoriya077/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Midoriya077/LeetCode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Midoriya077/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Midoriya077/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Midoriya077/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -256,6 +257,7 @@ LeetCode Questions!!!!
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Midoriya077/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Midoriya077/LeetCode/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3295-report-spam-message](https://github.com/Midoriya077/LeetCode/tree/main/3295-report-spam-message/) | Medium |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Midoriya077/LeetCode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Midoriya077/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Midoriya077/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Midoriya077/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -282,6 +284,7 @@ LeetCode Questions!!!!
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Midoriya077/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3024-type-of-triangle](https://github.com/Midoriya077/LeetCode/tree/main/3024-type-of-triangle/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Midoriya077/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Midoriya077/LeetCode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3731-find-missing-elements](https://github.com/Midoriya077/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Midoriya077/LeetCode/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Midoriya077/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
