@@ -183,6 +183,7 @@ LeetCode Questions!!!!
 | [0258-add-digits](https://github.com/Midoriya077/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Midoriya077/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/Midoriya077/LeetCode/tree/main/0292-nim-game/) | Easy |
+| [0326-power-of-three](https://github.com/Midoriya077/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Midoriya077/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/Midoriya077/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0507-perfect-number](https://github.com/Midoriya077/LeetCode/tree/main/0507-perfect-number/) | Easy |
@@ -552,6 +553,7 @@ LeetCode Questions!!!!
 | [0021-merge-two-sorted-lists](https://github.com/Midoriya077/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Midoriya077/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0233-number-of-digit-one](https://github.com/Midoriya077/LeetCode/tree/main/0233-number-of-digit-one/) | Hard |
+| [0326-power-of-three](https://github.com/Midoriya077/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/Midoriya077/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Ternary Search
 | Problem Name | Difficulty |
