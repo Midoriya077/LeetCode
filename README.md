@@ -129,6 +129,7 @@ LeetCode Questions!!!!
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Midoriya077/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Midoriya077/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Midoriya077/LeetCode/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Midoriya077/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Midoriya077/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2295-replace-elements-in-an-array](https://github.com/Midoriya077/LeetCode/tree/main/2295-replace-elements-in-an-array/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Midoriya077/LeetCode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -282,6 +283,7 @@ LeetCode Questions!!!!
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Midoriya077/LeetCode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Midoriya077/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/Midoriya077/LeetCode/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Midoriya077/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Midoriya077/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3024-type-of-triangle](https://github.com/Midoriya077/LeetCode/tree/main/3024-type-of-triangle/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Midoriya077/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -377,6 +379,7 @@ LeetCode Questions!!!!
 | [0852-peak-index-in-a-mountain-array](https://github.com/Midoriya077/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Midoriya077/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Midoriya077/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Midoriya077/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
