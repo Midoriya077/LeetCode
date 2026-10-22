@@ -155,6 +155,7 @@ LeetCode Questions!!!!
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Midoriya077/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Midoriya077/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Midoriya077/LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Midoriya077/LeetCode/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
