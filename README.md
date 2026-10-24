@@ -36,6 +36,7 @@ LeetCode Questions!!!!
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Midoriya077/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2278-percentage-of-letter-in-string](https://github.com/Midoriya077/LeetCode/tree/main/2278-percentage-of-letter-in-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Midoriya077/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2409-count-days-spent-together](https://github.com/Midoriya077/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Midoriya077/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/Midoriya077/LeetCode/tree/main/3019-number-of-changing-keys/) | Easy |
 | [3295-report-spam-message](https://github.com/Midoriya077/LeetCode/tree/main/3295-report-spam-message/) | Medium |
@@ -204,6 +205,7 @@ LeetCode Questions!!!!
 | [1822-sign-of-the-product-of-an-array](https://github.com/Midoriya077/LeetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1837-sum-of-digits-in-base-k](https://github.com/Midoriya077/LeetCode/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Midoriya077/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2409-count-days-spent-together](https://github.com/Midoriya077/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Midoriya077/LeetCode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Midoriya077/LeetCode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2525-categorize-box-according-to-criteria](https://github.com/Midoriya077/LeetCode/tree/main/2525-categorize-box-according-to-criteria/) | Easy |
