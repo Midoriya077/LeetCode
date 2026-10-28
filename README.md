@@ -115,6 +115,7 @@ LeetCode Questions!!!!
 | [0875-koko-eating-bananas](https://github.com/Midoriya077/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/Midoriya077/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0896-monotonic-array](https://github.com/Midoriya077/LeetCode/tree/main/0896-monotonic-array/) | Easy |
+| [0989-add-to-array-form-of-integer](https://github.com/Midoriya077/LeetCode/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1051-height-checker](https://github.com/Midoriya077/LeetCode/tree/main/1051-height-checker/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/Midoriya077/LeetCode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/Midoriya077/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -198,6 +199,7 @@ LeetCode Questions!!!!
 | [0728-self-dividing-numbers](https://github.com/Midoriya077/LeetCode/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Midoriya077/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/Midoriya077/LeetCode/tree/main/0877-stone-game/) | Medium |
+| [0989-add-to-array-form-of-integer](https://github.com/Midoriya077/LeetCode/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/Midoriya077/LeetCode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1486-xor-operation-in-an-array](https://github.com/Midoriya077/LeetCode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/Midoriya077/LeetCode/tree/main/1492-the-kth-factor-of-n/) | Medium |
