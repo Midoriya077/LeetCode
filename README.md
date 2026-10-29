@@ -62,6 +62,7 @@ LeetCode Questions!!!!
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Midoriya077/LeetCode/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/Midoriya077/LeetCode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Midoriya077/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Midoriya077/LeetCode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2295-replace-elements-in-an-array](https://github.com/Midoriya077/LeetCode/tree/main/2295-replace-elements-in-an-array/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Midoriya077/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Midoriya077/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -208,6 +209,7 @@ LeetCode Questions!!!!
 | [1822-sign-of-the-product-of-an-array](https://github.com/Midoriya077/LeetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1837-sum-of-digits-in-base-k](https://github.com/Midoriya077/LeetCode/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Midoriya077/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Midoriya077/LeetCode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2409-count-days-spent-together](https://github.com/Midoriya077/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Midoriya077/LeetCode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Midoriya077/LeetCode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
