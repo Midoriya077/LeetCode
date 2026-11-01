@@ -107,6 +107,7 @@ LeetCode Questions!!!!
 | [0349-intersection-of-two-arrays](https://github.com/Midoriya077/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Midoriya077/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Midoriya077/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Midoriya077/LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Midoriya077/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0575-distribute-candies](https://github.com/Midoriya077/LeetCode/tree/main/0575-distribute-candies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Midoriya077/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -195,6 +196,7 @@ LeetCode Questions!!!!
 | [0326-power-of-three](https://github.com/Midoriya077/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Midoriya077/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/Midoriya077/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Midoriya077/LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0507-perfect-number](https://github.com/Midoriya077/LeetCode/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Midoriya077/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Midoriya077/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
